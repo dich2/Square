@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1661600956 source:c:\users\админ\onedrive\рабочий стол\с_projects\squaresolver\main.cpp
+	<stdio.h>
+	<TXLib.h>
+	"SquareSolver.hpp"
+	"Tests.hpp"
+
+1661600783 c:\users\админ\onedrive\рабочий стол\с_projects\squaresolver\squaresolver.hpp
+
+1661526196 c:\users\админ\onedrive\рабочий стол\с_projects\squaresolver\tests.hpp
+
+1661600874 source:c:\users\админ\onedrive\рабочий стол\с_projects\squaresolver\squaresolver.cpp
+	<stdio.h>
+	<TXLib.h>
+	<math.h>
+	"SquareSolver.hpp"
+
+1661597500 source:c:\users\админ\onedrive\рабочий стол\с_projects\squaresolver\tests.cpp
+	<stdio.h>
+	<TXLib.h>
+	<math.h>
+	"Tests.hpp"
+	"SquareSolver.hpp"
+
+1661349282 source:c:\users\админ\onedrive\рабочий стол\с_projects\assert\assert.cpp
+

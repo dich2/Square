@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BrowseTracker_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="..\ASSERT\ASSERT.cpp" open="1" top="0" tabpos="0">
+		<Cursor position="0" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="SquareSolver.hpp" open="1" top="0" tabpos="3">
+		<Cursor position="82" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="SquareSolver.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="717" topLine="6" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="Tests.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="22" topLine="0" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="116" topLine="0" />
+		<BrowseMarks positions="285,401,1020,1553" />
+		<Book_Marks positions="" />
+	</File>
+	<File name="Tests.cpp" open="1" top="1" tabpos="4">
+		<Cursor position="883" topLine="38" />
+		<BrowseMarks positions="" />
+		<Book_Marks positions="" />
+	</File>
+</BrowseTracker_layout_file>
